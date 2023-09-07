@@ -8,4 +8,4 @@ Se Usa un solo bucle para las solicitudes HTTP: En lugar de realizar solicitudes
 
 Usamos Parallelización: podemos utilizar la biblioteca concurrent.futures para realizar solicitudes HTTP en paralelo, lo que acelerará la descarga de datos.
 
-Se procede a ejecutar y el resultado da de 2m 1.9s
+Se procede a ejecutar y el resultado da de 2m 1.9s ( antes 13 m 37 s)
